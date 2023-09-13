@@ -1,0 +1,37 @@
+body {
+    background-color:rgb(200, 161, 236);
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+main {
+    background-color:rgb(165, 100, 226);
+}
+
+h1 {
+    background-color:rgb(145, 106, 182)
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+}
+
+nav {
+    background-color:rgb(145, 106, 182);
+}
+
+.inline-p {
+    display: inline;
+}
+
+#empty-div {
+    width: 150px;
+    height: 100px;
+    color:aliceblue;
+    background-color:#6478c7;
+}
+
+
+
